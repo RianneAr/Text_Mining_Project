@@ -16,15 +16,15 @@ In order to encompass a better overview, we will be studying multiple different 
 To be able to compare gods and humans, we will first label the characters in the story as either of the two. We will create a list of humans from Greek mythology, and of gods. Then, we will go through the texts and label each character as being either a god or human.
 
 ## A tentative list of milestones for the project
-April 21 Project update 0: 
-repository README up.  
-research question, dataset, methods, milestones, proposed division of work. Please use the repository README template.
-May 9 Project update 1 (see below for guidelines).
-Data acquisition , Finding sources, Preprocessing , START Model creation and training
-May 19 Project update 2 (see below for guidelines).
-FINISH Model creation and training, Analysis,  START Writing,  START Powerpoint 
-May 29 (23:59 CEST) Project due for all groups.
-May 30-June 2 In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
+April 21 Project update 0: \
+repository README up.  \
+research question, dataset, methods, milestones, proposed division of work. Please use the repository README template.\
+May 9 Project update 1 (see below for guidelines).\
+Data acquisition , Finding sources, Preprocessing , START Model creation and training\
+May 19 Project update 2 (see below for guidelines).\
+FINISH Model creation and training, Analysis,  START Writing,  START Powerpoint \
+May 29 (23:59 CEST) Project due for all groups.\
+May 30-June 2 In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.\
 
 ## Task division
 Data acquisition - Savanna 
