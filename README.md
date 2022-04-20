@@ -1,6 +1,6 @@
 # Text Mining Project
 
-## Greek Mythology!!
+## Greek Mythology Project
 
 ## Abstract
 A max 150-word description of the project question or idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
