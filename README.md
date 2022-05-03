@@ -9,7 +9,7 @@ This project will analyze the adjectives and adverbs that describe gods in Greek
 We decided to work on Greek mythology because of our interest in Greek myths, and thought that analyzing these myths would be a great application of the material from class. 
 
 ## Research questions
-In what way are Gods portrayed differently than mortals in Greek mythology? 
+In what way are Gods portrayed differently than mortals in popular Greek myths? 
 
 ## Dataset
 In order to create a good overview, we will be studying multiple different myths about Greek gods and mortals from the following text library: https://www.theoi.com/Library.html. This resource contains English translations of many different Greek myths, ordered by era. We will choose one of these eras and use this as our raw data.\
