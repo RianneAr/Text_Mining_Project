@@ -41,11 +41,11 @@ Powerpoint - Savanna
 Once our repo contains more files and data, we will explain its structure here.
 
 ## Bibliogrpahy
-  Karakis. (2019). Neuroscience and Greek mythology. Journal of the History of the Neurosciences, 28(1), 1–22. https://doi.org/10.1080/0964704X.2018.1522049 \
+  Karakis. (2019). Neuroscience and Greek mythology. Journal of the History of the Neurosciences, 28(1), 1–22. https://doi.org/10.1080/0964704X.2018.1522049
 
-  Lefkowitz. (2003). Greek gods, human lives : what we can learn from myths. Yale University Press. \
+  Lefkowitz. (2003). Greek gods, human lives : what we can learn from myths. Yale University Press.
   
-  Theoi Texts Library. Theoi Classical Texts Library. (n.d.). Retrieved May 5, 2022, from https://www.theoi.com/Library.html \
+  Theoi Texts Library. Theoi Classical Texts Library. (n.d.). Retrieved May 5, 2022, from https://www.theoi.com/Library.html 
   
-  30 of the Most Famous Tales from Greek Mythology. (2019, December 19). [web log]. Retrieved May 5, 2022, from https://greektraveltellers.com/blog/30-of-the-most-famous-tales-from-greek-mythology. \
+  30 of the Most Famous Tales from Greek Mythology. (2019, December 19). [web log]. Retrieved May 5, 2022, from https://greektraveltellers.com/blog/30-of-the-most-famous-tales-from-greek-mythology. 
 
