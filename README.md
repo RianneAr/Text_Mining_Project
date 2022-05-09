@@ -16,7 +16,7 @@ In what way are Gods portrayed differently than mortals in popular Greek myths?
 ## Dataset
 In order to create a good overview, we will be studying multiple different myths about Greek gods and mortals from the following text library: https://www.theoi.com/Library.html. This resource contains English translations of many different Greek myths, ordered by era. We will choose one of these eras and use this as our raw data.\
 To be able to compare gods and humans, we will first label the characters in the story as either of the two. To this end, we will create a list of humans from Greek mythology, and one of gods. Then, we will go through the texts and label each character as either a god or human. \
-To answer the research question, we will use an n-gram model so that we can focus on the words close around the characters. We will filter out all words that are not adjectives or adverbs, and then analyze the remaining data.
+To answer the research question, we will use word embedding to compare words in the context of gods and in the context of mortals. We will filter out all words that are not adjectives or adverbs, and then analyze the remaining data.
 
 ## A tentative list of milestones for the project
 April 21 Project update 0: \
