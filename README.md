@@ -1,5 +1,8 @@
 # Greek Mythology Project
 
+## Project update 1
+So far, we have finished the data acquisition and started the pre-processing. We have also found some sources and started to lay out the structure of the final report. 
+
 ## Abstract
 (This is a first draft of our abstract, with the main idea of our project and our motivation for it. It is subject to change as it will be updated as the project unfolds.)\
 In this project, we aim to determine in what way gods and mortals are described in Greek mythology, and how these descriptions differ from each other. In Greek mythology, gods are often portrayed with human traits; they make mistakes, have human-like relationships and feel the same emotions as mortals. We want to know whether this is also reflected in the words used to describe them, or whether there is a very clear distinction between the descriptors of gods and humans.\
