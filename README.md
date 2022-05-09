@@ -1,6 +1,4 @@
-# Text Mining Project
-
-## Greek Mythology Project
+# Greek Mythology Project
 
 ## Abstract
 (This is a first draft of our abstract, with the main idea of our project and our motivation for it. It is subject to change as it will be updated as the project unfolds.)\
