@@ -5,12 +5,11 @@ So far, we have finished the data acquisition and started the preprocessing. We 
 We created two dictionaries, one with names of Olympian gods and one with mortals, so that we can check whether the characters in the data are gods or mortals. For the preprocessing, we wrote code to tokenize, PoS tag, and lemmatize the data. We also wrote code to check whether there are any characters in the data that don't yet occur in the character dictionaries. Right now, we are going through these names, and adding them to the dictionaries if necessary. The preprocessing is currently done on only the Odyssee, so we plan on going through the same process for the other texts. We are able to keep up with the schedule, and the teamwork is going very smoothly.
 
 ## Project update 2
-We finished the preprocessing and data exploration and made the model. 
+We finished the preprocessing and data exploration where we checked wether there were enough names/ adverbs/ adjectives in the dataset to do a meaningfull analysis. 
+The model is slowly but surely coming along. We struggled with getting the sequence of steps in the right order. For example, at first we first filtered all the adjectives and adverbs out of the text and then did word2vec most_similar to godnames and mortalnames, but this gave very similar results. Later we discovered it was better to do word2vec on the whole text and then filter out the adjectives and adverbs. (**Question 1**) Is the latter method better? Some more work needs to be done on finetunign these findings. (**Question 2**) We are debating wether it is a good idea to do weigther counts, as some adjectives/ adverbs are much more common but have less meaning. 
+
 As for the paper, we delved a little deeper into some previous research done and the way that Gods and mortals are characterized, so that once we run our chosen texts through the model, we will be able to easily analyze whether the information collected resonates with the character description from the research. 
 We are making good and timely porgress, and the project is taking a much clearer shape. 
-
-We do have the following questions regarding the model:
-1. 
 
 
 ## Abstract
