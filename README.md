@@ -4,6 +4,11 @@
 So far, we have finished the data acquisition and started the preprocessing. We have also found some sources and started to lay out the structure of the final report.
 We created two dictionaries, one with names of Olympian gods and one with mortals, so that we can check whether the characters in the data are gods or mortals. For the preprocessing, we wrote code to tokenize, PoS tag, and lemmatize the data. We also wrote code to check whether there are any characters in the data that don't yet occur in the character dictionaries. Right now, we are going through these names, and adding them to the dictionaries if necessary. The preprocessing is currently done on only the Odyssee, so we plan on going through the same process for the other texts. We are able to keep up with the schedule, and the teamwork is going very smoothly.
 
+## Project update 2
+We finished the preprocessing and data exploration and made the model. 
+As for the paper, we delved a little deeper into some previous research done and the way that Gods and mortals are characterized, so that once we run our chosen texts through the model, we will be able to easily analyze whether the information collected resonates with the character description from the research. 
+We are making good and timely porgress, and the project is taking a much clearer shape. 
+
 ## Abstract
 (This is a first draft of our abstract, with the main idea of our project and our motivation for it. It is subject to change as it will be updated as the project unfolds.)\
 In this project, we aim to determine in what way gods and mortals are described in Greek mythology, and how these descriptions differ from each other. In Greek mythology, gods are often portrayed with human traits; they make mistakes, have human-like relationships and feel the same emotions as mortals. We want to know whether this is also reflected in the words used to describe them, or whether there is a very clear distinction between the descriptors of gods and humans.\
