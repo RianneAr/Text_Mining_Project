@@ -39,7 +39,7 @@ May 30-June 2 In-class presentations: 10+10 minutes (presentation + questions), 
 
 ## Task division
 Data acquisition - Savanna \
-Finding sources - Leah\
+Research and finding sources - Leah\
 Preprocessing - Rianne\
 Data exploration - Rianne\
 Model creation and training - Rianne & Savanna\
