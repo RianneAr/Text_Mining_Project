@@ -15,7 +15,7 @@ We are making good and timely porgress, and the project is taking a much clearer
 ## Abstract
 This research aims to determine in what way gods and mortals are described in Greek mythology, and how these descriptions differ from each other. In Greek mythology, gods are often portrayed with human traits; they make mistakes, have human-like relationships and feel the same emotions as mortals. We want to know whether this is also reflected in the words used to describe them, or whether there is a very clear distinction between the descriptors of gods and humans. This project will analyze the adjectives and adverbs that describe gods in Greek mythology texts, and compare this with the way that mortal characters are represented. Results show that both mortals and gods are described with mostly positive adjectives and adverbs, even though the words themselves do differ from each other. The individual differences between characters are larger than those between the group of gods and the group of mortals. Future research could further look into the individual differences between characters. 
 
-## Research questions
+## Research question
 In what way are Gods portrayed differently than mortals in relation to adverbs and adjectives in popular Greek myths? 
 
 ## Dataset
