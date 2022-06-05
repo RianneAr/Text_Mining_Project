@@ -50,12 +50,13 @@ Powerpoint - Savanna
 ## Documentation
 The repository consists of the following files:
 - Greek Mythology Project Code File.ipynb: The main code file that contains the data acquisition and exploration, and the implementations and interpretations of the models;
+- report_GreekMyth.pdf: The report;
 - TM Project Greek Mythology.pptx: The powerpoint presentation of our work;
 - characterdicts.ipynb: Code that creates a dictionary for mortals and gods;
 - goddict.json and mortaldict.json: the saved dictionaries created with characterdicst.ipynb;
 - text_file.txt: The raw data.
 
-## Bibliogrpahy
+## Bibliography
   Karakis. (2019). Neuroscience and Greek mythology. Journal of the History of the Neurosciences, 28(1), 1–22. https://doi.org/10.1080/0964704X.2018.1522049
 
   Lefkowitz. (2003). Greek gods, human lives : what we can learn from myths. Yale University Press.
