@@ -40,14 +40,20 @@ May 30-June 2 In-class presentations: 10+10 minutes (presentation + questions), 
 ## Task division
 Data acquisition - Savanna \
 Finding sources - Leah\
-Preprocessing - Rianne & Savanna\
-Model creation and training - Everyone\
+Preprocessing - Rianne\
+Data exploration - Rianne\
+Model creation and training - Rianne & Savanna\
 Analysis - Everyone\
 Writing - Leah & Rianne\
 Powerpoint - Savanna
 
 ## Documentation
-Once our repo contains more files and data, we will explain its structure here.
+The repository consists of the following files:
+- Greek Mythology Project Code File.ipynb: The main code file that contains the data acquisition and exploration, and the implementations and interpretations of the models;
+- TM Project Greek Mythology.pptx: The powerpoint presentation of our work;
+- characterdicts.ipynb: Code that creates a dictionary for mortals and gods;
+- goddict.json and mortaldict.json: the saved dictionaries created with characterdicst.ipynb;
+- text_file.txt: The raw data.
 
 ## Bibliogrpahy
   Karakis. (2019). Neuroscience and Greek mythology. Journal of the History of the Neurosciences, 28(1), 1–22. https://doi.org/10.1080/0964704X.2018.1522049
